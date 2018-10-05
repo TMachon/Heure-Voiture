@@ -1,2 +1,2 @@
 # Heure-Voiture
-Un petit outil qui permet de donner des informations sur les heures et les temps concernant le trajet maison-travail (ici, IUT)
+Outil simplissime de calcul de temps de trajet, et adaptation Android SL4A.
